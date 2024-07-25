@@ -1,4 +1,4 @@
-Hey! Your in Kamesh's Git Repo!!!
+###Hey! Your in Kamesh's Git Repo!!!
 
 [![GitHub](https://img.shields.io/badge/GitHub-Kamesk-181717?style=for-the-badge&logo=github)](https://github.com/Kamesk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kamesh%20Kumar-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kamesh-kumar-3774561b3/)
@@ -32,8 +32,7 @@ Transitioning from Operational Automations in a Financial Institution to a Resea
 | ![SageMaker](https://img.shields.io/badge/-SageMaker-232F3E?style=flat&logo=amazon-aws&logoColor=white) | ![Lambda](https://img.shields.io/badge/-Lambda-232F3E?style=flat&logo=amazon-aws&logoColor=white) | ![EC2](https://img.shields.io/badge/-EC2-232F3E?style=flat&logo=amazon-aws&logoColor=white) |
 | ![ECR](https://img.shields.io/badge/-ECR-232F3E?style=flat&logo=amazon-aws&logoColor=white) | ![S3](https://img.shields.io/badge/-S3-232F3E?style=flat&logo=amazon-aws&logoColor=white) | ![API Connections](https://img.shields.io/badge/-API%20Connections-0078D4?style=flat&logo=microsoft-azure&logoColor=white) |
 | ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white) | ![AI Search](https://img.shields.io/badge/-AI%20Search-0078D4?style=flat&logo=microsoft-azure&logoColor=white) | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) |
-| ![REST API](https://img.shields.io/badge/-REST%20API-FF6F00?style=flat&logo=rest&logoColor=white) | ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) |
-
+| ![REST API](https://img.shields.io/badge/-REST%20API-FF6F00?style=flat&logo=rest&logoColor=white) 
 ## Publications and Research
 
 1. **Deep Voice Learner Bot**, IEEE (Accepted for Publication, Expected August 2024). Led by Prof Thierry Chaussalet
