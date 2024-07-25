@@ -1,5 +1,5 @@
 <!-- Heading -->
-<h1 style="color:blue; font-size: 58px; font-weight: bold;">Hello! Welcome to Kamesh's Git Repository!!!</h1>😊
+<h1 style="color:blue; font-size: 58px; font-weight: bold;">Hello! Welcome to Kamesh's Git Repository!!! 😊</h1>
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-Kamesk-181717?style=for-the-badge&logo=github)](https://github.com/Kamesk)
