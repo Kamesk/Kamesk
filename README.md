@@ -1,5 +1,4 @@
-
-[![Hello This is Kamesh Profile]](https://camo.githubusercontent.com/ee9d678a838fdc800a7b1449bae75552c13bfa5afeb275eb6b315e02499c8ba0/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330)
+Hey! Your in Kamesh's Git Repo!!!
 
 [![GitHub](https://img.shields.io/badge/GitHub-Kamesk-181717?style=for-the-badge&logo=github)](https://github.com/Kamesk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kamesh%20Kumar-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kamesh-kumar-3774561b3/)
