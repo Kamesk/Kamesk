@@ -1,6 +1,4 @@
-Here's an enhanced README.md for your GitHub profile, including icons for all the tools mentioned with links to their documentation:
 
-```markdown
 # [Hey nice to see you in my profile,I am Kamesh Kumar!](https://i.imgur.com/Z1ZFFHg.png)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Kamesk-181717?style=for-the-badge&logo=github)](https://github.com/Kamesk)
